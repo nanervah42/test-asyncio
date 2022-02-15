@@ -1,0 +1,3 @@
+https://all-python.ru/osnovy/threading.html
+
+https://webdevblog.ru/vvedenie-v-potoki-v-python/
